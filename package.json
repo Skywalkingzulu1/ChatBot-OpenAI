@@ -17,6 +17,6 @@
     "openai": "^3.1.0"
   },
   "devDependencies": {
-    "netlify-cli": "^3.41.0"  // You might need Netlify CLI for deployment
+    "netlify-cli": "^3.41.0"  
   }
 }
